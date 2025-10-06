@@ -1,7 +1,7 @@
 # Ex-03-Linux-Commands
 
-## Name: RAVIPRASATH K
-## Reg. No.: 212224230225
+## Name: BHARANI KUMAR S
+## Reg. No.: 212224230035
 
 
 ## Aim:
